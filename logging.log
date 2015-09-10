@@ -1,0 +1,93 @@
+2015-09-10 22:58:51 INFO  LogLog4j:42 - Opening login page
+2015-09-10 23:09:41 INFO  LogLog4j:38 - Opening login page
+2015-09-10 23:09:48 INFO  LogLog4j:42 - Checking that all correct data added successfully
+2015-09-10 23:09:48 INFO  LogLog4j:38 - Opening login page
+2015-09-10 23:09:49 INFO  LogLog4j:70 - entering userName: rtpinterview01@marketo.com 
+2015-09-10 23:09:49 INFO  LogLog4j:76 - entering password: xGTrgjJ4Ew 
+2015-09-10 23:10:04 INFO  LogLog4j:45 - Wait for load Main page
+2015-09-10 23:10:04 INFO  LogLog4j:38 - Opening login page
+2015-09-10 23:21:00 INFO  LogLog4j:38 - Opening login page
+2015-09-10 23:21:08 INFO  LogLog4j:42 - Checking that all correct data added successfully
+2015-09-10 23:21:08 INFO  LogLog4j:38 - Opening login page
+2015-09-10 23:21:09 INFO  LogLog4j:70 - entering userName: rtpinterview01@marketo.com 
+2015-09-10 23:21:09 INFO  LogLog4j:76 - entering password: xGTrgjJ4Ew 
+2015-09-10 23:21:22 INFO  LogLog4j:51 - Wait for load Main page
+2015-09-10 23:21:22 INFO  LogLog4j:80 - Click on Service Desk button
+2015-09-10 23:22:13 INFO  LogLog4j:38 - Opening login page
+2015-09-10 23:23:59 INFO  LogLog4j:57 - Checking inability lodin with wrong credentials
+2015-09-10 23:23:59 INFO  LogLog4j:38 - Opening login page
+2015-09-10 23:30:27 INFO  LogLog4j:38 - Opening login page
+2015-09-10 23:30:34 INFO  LogLog4j:42 - Checking that all correct data added successfully
+2015-09-10 23:30:34 INFO  LogLog4j:38 - Opening login page
+2015-09-10 23:30:35 INFO  LogLog4j:70 - entering userName: rtpinterview01@marketo.com 
+2015-09-10 23:30:35 INFO  LogLog4j:76 - entering password: xGTrgjJ4Ew 
+2015-09-10 23:30:48 INFO  LogLog4j:51 - Wait for load Main page
+2015-09-10 23:30:48 INFO  LogLog4j:80 - Click on Service Desk button
+2015-09-10 23:30:48 INFO  LogLog4j:38 - Opening login page
+2015-09-10 23:30:56 INFO  LogLog4j:57 - Checking inability lodin with wrong credentials
+2015-09-10 23:30:56 INFO  LogLog4j:38 - Opening login page
+2015-09-10 23:30:58 INFO  LogLog4j:70 - entering userName: aaaaa 
+2015-09-10 23:30:58 INFO  LogLog4j:76 - entering password: 111111 
+2015-09-10 23:34:58 INFO  LogLog4j:38 - Opening login page
+2015-09-10 23:35:05 INFO  LogLog4j:42 - Checking that all correct data added successfully
+2015-09-10 23:35:05 INFO  LogLog4j:38 - Opening login page
+2015-09-10 23:35:07 INFO  LogLog4j:70 - entering userName: rtpinterview01@marketo.com 
+2015-09-10 23:35:07 INFO  LogLog4j:76 - entering password: xGTrgjJ4Ew 
+2015-09-10 23:35:18 INFO  LogLog4j:51 - Wait for load Main page
+2015-09-10 23:35:19 INFO  LogLog4j:80 - Click on Logout button
+2015-09-10 23:35:22 INFO  LogLog4j:38 - Opening login page
+2015-09-10 23:35:23 INFO  LogLog4j:58 - Checking inability lodin with wrong credentials
+2015-09-10 23:35:23 INFO  LogLog4j:38 - Opening login page
+2015-09-10 23:35:24 INFO  LogLog4j:70 - entering userName: aaaaa 
+2015-09-10 23:35:24 INFO  LogLog4j:76 - entering password: 111111 
+2015-09-10 23:38:35 INFO  LogLog4j:38 - Opening login page
+2015-09-10 23:38:41 INFO  LogLog4j:58 - Checking inability lodin with wrong credentials
+2015-09-10 23:38:41 INFO  LogLog4j:38 - Opening login page
+2015-09-10 23:38:42 INFO  LogLog4j:70 - entering userName: aaaaa 
+2015-09-10 23:38:43 INFO  LogLog4j:76 - entering password: 111111 
+2015-09-10 23:39:55 INFO  LogLog4j:38 - Opening login page
+2015-09-10 23:40:01 INFO  LogLog4j:58 - Checking inability lodin with wrong credentials
+2015-09-10 23:40:01 INFO  LogLog4j:38 - Opening login page
+2015-09-10 23:40:03 INFO  LogLog4j:70 - entering userName: aaaaa 
+2015-09-10 23:40:03 INFO  LogLog4j:76 - entering password: 111111 
+2015-09-10 23:40:44 INFO  LogLog4j:38 - Opening login page
+2015-09-10 23:40:50 INFO  LogLog4j:42 - Checking that all correct data added successfully
+2015-09-10 23:40:50 INFO  LogLog4j:38 - Opening login page
+2015-09-10 23:40:51 INFO  LogLog4j:70 - entering userName: rtpinterview01@marketo.com 
+2015-09-10 23:40:51 INFO  LogLog4j:76 - entering password: xGTrgjJ4Ew 
+2015-09-10 23:41:03 INFO  LogLog4j:51 - Wait for load Main page
+2015-09-10 23:41:03 INFO  LogLog4j:80 - Click on Logout button
+2015-09-10 23:41:06 INFO  LogLog4j:38 - Opening login page
+2015-09-10 23:41:08 INFO  LogLog4j:58 - Checking inability lodin with wrong credentials
+2015-09-10 23:41:08 INFO  LogLog4j:38 - Opening login page
+2015-09-10 23:41:09 INFO  LogLog4j:70 - entering userName: aaaaa 
+2015-09-10 23:41:09 INFO  LogLog4j:76 - entering password: 111111 
+2015-09-10 23:41:45 INFO  LogLog4j:38 - Opening login page
+2015-09-10 23:41:51 INFO  LogLog4j:70 - entering userName: rtpinterview01@marketo.com 
+2015-09-10 23:41:52 INFO  LogLog4j:76 - entering password: xGTrgjJ4Ew 
+2015-09-10 23:42:03 INFO  LogLog4j:37 - Checking that Lead Database Page is loaded
+2015-09-10 23:42:03 INFO  LogLog4j:74 - Click on Service Desk button
+2015-09-10 23:42:03 INFO  LogLog4j:57 - Wait for load Lead Database page
+2015-09-10 23:47:39 INFO  LogLog4j:38 - Opening login page
+2015-09-10 23:47:46 INFO  LogLog4j:70 - entering userName: rtpinterview01@marketo.com 
+2015-09-10 23:47:46 INFO  LogLog4j:76 - entering password: xGTrgjJ4Ew 
+2015-09-10 23:47:59 INFO  LogLog4j:37 - Checking that Lead Database Page is loaded
+2015-09-10 23:47:59 INFO  LogLog4j:74 - Click on Service Desk button
+2015-09-10 23:47:59 INFO  LogLog4j:57 - Wait for load Lead Database page
+2015-09-10 23:51:17 INFO  LogLog4j:38 - Opening login page
+2015-09-10 23:51:24 INFO  LogLog4j:70 - entering userName: rtpinterview01@marketo.com 
+2015-09-10 23:51:24 INFO  LogLog4j:76 - entering password: xGTrgjJ4Ew 
+2015-09-10 23:51:36 INFO  LogLog4j:37 - Checking that Lead Database Page is loaded
+2015-09-10 23:51:36 INFO  LogLog4j:74 - Click on Service Desk button
+2015-09-10 23:51:36 INFO  LogLog4j:57 - Wait for load Lead Database page
+2015-09-10 23:59:50 INFO  LogLog4j:38 - Opening login page
+2015-09-10 23:59:57 INFO  LogLog4j:70 - entering userName: rtpinterview01@marketo.com 
+2015-09-10 23:59:57 INFO  LogLog4j:76 - entering password: xGTrgjJ4Ew 
+2015-09-11 00:00:10 INFO  LogLog4j:37 - Checking that Lead Database Page is loaded
+2015-09-11 00:00:10 INFO  LogLog4j:73 - Click on Service Desk button
+2015-09-11 00:06:56 INFO  LogLog4j:38 - Opening login page
+2015-09-11 00:07:02 INFO  LogLog4j:70 - entering userName: rtpinterview01@marketo.com 
+2015-09-11 00:07:03 INFO  LogLog4j:76 - entering password: xGTrgjJ4Ew 
+2015-09-11 00:07:16 INFO  LogLog4j:37 - Checking that Lead Database Page is loaded
+2015-09-11 00:07:16 INFO  LogLog4j:73 - Click on Lead Database Button
+2015-09-11 00:07:19 INFO  LogLog4j:57 - Wait for load Lead Database page
